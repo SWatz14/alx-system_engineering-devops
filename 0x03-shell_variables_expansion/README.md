@@ -1,1 +1,1 @@
-New readme file on shell variables expansions
+shell variables expansions
